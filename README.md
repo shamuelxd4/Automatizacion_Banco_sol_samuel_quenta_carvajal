@@ -8,13 +8,13 @@ Aquí se encuentran las instrucciones para instalar las dependencias y ejecutar 
 
 1. **Clonar el repositorio:**
 
-   ```bash
-   git clone https://github.com/tu-usuario/proyecto-cypress.git
-2. ingresar a la carpeta 
+   https://github.com/shamuelxd4/Automatizacion_Banco_sol_samuel_quenta_carvajal.git
+   
+3. ingresar a la carpeta 
    cd proyecto-cypress
    npm install
 
-3. comandos para ejecutar cypress
+4. comandos para ejecutar cypress
    npx cypress open
 
 
@@ -46,6 +46,9 @@ capturas de prueba:
 
 ## update message
 ![image](https://github.com/shamuelxd4/Automatizacion_Banco_sol_samuel_quenta_carvajal/assets/50058913/21db1a17-c860-47a7-8229-ee46fd70da2b)
+
+## link del video
+https://youtu.be/DSDXWtUyTHo
 
 
 
